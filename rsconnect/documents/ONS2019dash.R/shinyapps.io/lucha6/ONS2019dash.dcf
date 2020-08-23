@@ -1,0 +1,13 @@
+name: ONS2019dash
+title: ONS2019dash
+username:
+account: lucha6
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2696823
+bundleId: 3546362
+url: https://lucha6.shinyapps.io/ONS2019dash/
+when: 1598140114.74548
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 01_tidyingOriginalData.R|02_Merge_and_Explore.R|README.md|time_impute.R|updateCodes.R|CleanData/ONS.csv|CleanData/ONStime.csv|OriginalData
